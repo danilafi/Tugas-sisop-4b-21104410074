@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410074** |
+| Nama Lengkap | **Danila Fitria Nikmatus S** |
 | Kelas | TI-4B |
